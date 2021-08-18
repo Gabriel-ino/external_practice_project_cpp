@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1629329355 source:/home/bagriel/C_Programming/foo.cpp
+	<string>
+
+1629329570 source:/home/bagriel/C_Programming/external.cpp
+	<iostream>
+	<locale.h>
+	<stdio.h>
+	<string>
+
